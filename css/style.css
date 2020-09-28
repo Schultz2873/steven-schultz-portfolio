@@ -1,0 +1,66 @@
+body, html {
+    margin: 0;
+    color: white;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+   background: url("../img/background-gradient-2.svg") no-repeat;
+    background-size: cover;
+
+}
+
+nav {
+    padding: 50px ;
+
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul{
+    list-style-type: none;
+    float: right;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    color: black;
+    padding: 0 30px;
+}
+
+#logo {
+    font-size: 2em;
+}
+
+.header {
+    text-align: center;
+    width: 60%;
+    margin: 110px auto;
+}
+
+h1 {
+    font-size: 3.5em;
+
+}
+
+.container p {
+    font-size: 1.3em;
+    line-height: 1.4em;
+}
+
+
+
+
+
+
+
